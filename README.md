@@ -1,4 +1,4 @@
-# BUT2_Web_Scrapping
+# Web_Scrapping
 
 ## Présentation
 
